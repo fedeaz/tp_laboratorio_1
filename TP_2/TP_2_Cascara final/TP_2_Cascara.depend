@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1525220776 source:d:\users\stormer\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1525220662 d:\users\stormer\desktop\tp_2_cascara\funciones.h
+
+1525220662 source:d:\users\stormer\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1525265334 source:c:\users\alumno\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1525265372 c:\users\alumno\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+
+1525265528 source:c:\users\alumno\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1525388719 source:d:\users\stormer\desktop\clase1-5-2018\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525387372 d:\users\stormer\desktop\clase1-5-2018\tp_2_cascara\tp_2_cascara\funciones.h
+
+1525387372 source:d:\users\stormer\desktop\clase1-5-2018\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1525560976 source:d:\users\stormer\desktop\clase1-5-2018\tp_2_cascara\tp_2_cascara final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1525561227 d:\users\stormer\desktop\clase1-5-2018\tp_2_cascara\tp_2_cascara final\funciones.h
+
+1525561296 source:d:\users\stormer\desktop\clase1-5-2018\tp_2_cascara\tp_2_cascara final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
